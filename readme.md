@@ -9,7 +9,7 @@ Hey developers! LearnNation is looking for innovative solutions to streamline po
 Create a web-based application that converts text transcripts or audio uploads into enhanced, playable podcasts from one or two people using ReactJS, ExpressJS, Google's Gemini API, and Web Speech API. This prototype will showcase your ability to work with cutting-edge AI and audio processing technologies.
 
 ## Project Scope
-This is a prototype development project aimed at demonstrating the feasibility and potential of AI-enhanced podcast creation. The successful implementation could lead to opportunities to join the full development team.
+This is a prototype development project aimed at feasibility and potential of LearnNation's Proprietary AI-enhanced podcast creation technology. The successful implementation could lead to opportunities to join the full Proprietary AI development team.
 
 ## Core Features Required
 - Audio file upload functionality
