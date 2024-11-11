@@ -18,6 +18,7 @@ This is a prototype development project aimed at demonstrating the feasibility a
 - Text transformation using Gemini API
 - Podcast player interface with basic audio controls (Start, Stop)
 - Generate Podcast button control to trigger the podcast creation process
+- Example output of generated podcast script in the UI
 
 ## Technical Stack
 - Frontend: ReactJS

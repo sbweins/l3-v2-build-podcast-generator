@@ -49,41 +49,13 @@ Version 1.0
 // Core dependencies
 "express": "^4.18.0"
 "@google/generative-ai": "latest"
-"multer": "^1.4.5-lts.1"
+"multer": "^1.4.5-lts.1" // for file uploads
 "cors": "^2.8.5"
 "dotenv": "^16.0.0"
 
-// Audio processing (if using Express)
+// Audio processing and compression (if using Express)
 "ffmpeg-static": "^5.0.0"
 "fluent-ffmpeg": "^2.1.2"
-```
-
-## File Structure
-```
-project/
-├── client/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── LoadingSpinner.jsx
-│   │   │   ├── AudioControls.jsx
-│   │   │   └── PodcastPlayer.jsx
-│   │   ├── hooks/
-│   │   │   └── useAudioPlayback.js
-│   │   ├── utils/
-│   │   │   └── audioHelpers.js
-│   │   └── App.jsx
-│   └── public/
-│       └── audio/
-│           └── pod.m4a
-└── server/
-    ├── routes/
-    │   └── podcastRoutes.js
-    ├── utils/
-    │   ├── audioProcessing.js
-    │   └── promptGenerator.js
-    ├── middleware/
-    │   └── errorHandler.js
-    └── app.js
 ```
 
 ## API Endpoints
@@ -151,10 +123,11 @@ const model = genAI.getGenerativeModel({
 
 ### Prompt Engineering
 - Strategic prompting with clear format requirements
-- Two-person dialogue structure
+- One or two-person dialogue structure
 - Consistent speaker identification
 - Time duration guidance
 - Content enhancement requirements
+- Example output for generated script
 
 ## Audio Processing
 
@@ -202,11 +175,11 @@ const compressionOptions = {
 - User-friendly error messages
 - File cleanup on error
 
-## Additional Considerations
-- Cross-browser compatibility
-- Performance optimization
-- Memory management
-- File cleanup
-- Security best practices
-- Rate limiting consideration
-- Error logging
+## Resources
+- [React Web Speech to Text Player Demo](https://github.com/jdrichards-pursuit/text-to-speech-demo-react)
+- [Google Gemini API - Audio ](https://ai.google.dev/gemini-api/docs/audio?lang=node)
+- [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+- [Multer](https://github.com/expressjs/multer) - file uploads
+- [Ffmpeg Static](https://www.npmjs.com/package/ffmpeg-static) - audio compression
+- [Fluent Ffmpeg](https://www.npmjs.com/package/fluent-ffmpeg) - audio compression
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
