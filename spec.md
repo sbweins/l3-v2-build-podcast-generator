@@ -3,7 +3,14 @@ Version 1.0
 
 ## Core Technical Requirements
 
+
+### Video Examples of Podcast Creation by Team Members
+
+- [Basic Example](https://drive.google.com/file/d/1PDMKCN6fN9kXRiJNHU7NPRcgtx8suFOr/view?usp=sharing)
+- [Advanced Example](https://drive.google.com/file/d/1hTsY5rQC324xqHq92Mky4g-_EdYPSHWL/view?usp=sharing)
+
 ### Frontend (React)
+
 - Single Page Application using React (18.0+)
 - Required hooks: useState, useRef, useEffect
 - Clean component architecture
@@ -21,6 +28,7 @@ Version 1.0
   - Pitch adjustment
 
 ### Backend (Express/Python)
+
 - RESTful API architecture
 - Two primary POST routes:
   - `/api/generate-podcast`: Audio file processing
@@ -34,29 +42,21 @@ Version 1.0
 ### Required Libraries
 
 #### Frontend
-```javascript
-// Core dependencies
-"react": "^18.0.0"
-"react-dom": "^18.0.0"
-
-// Optional styling frameworks
+- React
+- React-dom
 - Any CSS framework of choice
 - CSS modules support
-```
 
-#### Backend
-```javascript
-// Core dependencies
-"express": "^4.18.0"
-"@google/generative-ai": "latest"
-"multer": "^1.4.5-lts.1" // for file uploads
-"cors": "^2.8.5"
-"dotenv": "^16.0.0"
 
-// Audio processing and compression (if using Express)
-"ffmpeg-static": "^5.0.0"
-"fluent-ffmpeg": "^2.1.2"
-```
+#### Backend Packages
+- express
+- google-generative-ai
+- multer (optional)
+- cors
+- dotenv
+- ffmpeg-static (optional)
+- fluent-ffmpeg (optional)
+
 
 ## API Endpoints
 
@@ -151,13 +151,13 @@ const compressionOptions = {
 
 ### Input Methods
 - Toggle between audio upload and transcript input
-- File upload with drag-and-drop support
+- File upload support
 - Textarea for transcript input
+- Script display area for generated podcast script
 
 ### Playback Interface
 - Play/Stop button
 - Speed control slider (0.5x - 2.0x)
-- Visual script display
 - Speaker identification
 - Loading indicator during generation
 
@@ -170,7 +170,7 @@ const compressionOptions = {
 
 ## Error Handling
 - Client-side validation
-- Server-side error middleware
+- Server-side error handling
 - Graceful fallbacks
 - User-friendly error messages
 - File cleanup on error

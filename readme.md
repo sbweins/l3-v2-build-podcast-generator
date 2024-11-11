@@ -6,7 +6,7 @@
 Hey developers! LearnNation is looking for innovative solutions to streamline podcast creation using AI technology. This project will create a prototype similar to [Google's Notebook LM podcast feature](https://notebooklm.google.com/), demonstrating your ability to work with modern web technologies and AI integration.
 
 ## Project Overview
-Create a web-based application that converts text transcripts or audio uploads into enhanced, playable podcasts using ReactJS, ExpressJS, Google's Gemini API, and Web Speech API. This prototype will showcase your ability to work with cutting-edge AI and audio processing technologies.
+Create a web-based application that converts text transcripts or audio uploads into enhanced, playable podcasts from one or two people using ReactJS, ExpressJS, Google's Gemini API, and Web Speech API. This prototype will showcase your ability to work with cutting-edge AI and audio processing technologies.
 
 ## Project Scope
 This is a prototype development project aimed at demonstrating the feasibility and potential of AI-enhanced podcast creation. The successful implementation could lead to opportunities to join the full development team.
@@ -14,7 +14,7 @@ This is a prototype development project aimed at demonstrating the feasibility a
 ## Core Features Required
 - Audio file upload functionality
 - Transcript paste/input capability
-- Text-to-audio conversion using Web Speech API
+- Text-to-Audio conversion using Web Speech API
 - Text transformation using Gemini API
 - Podcast player interface with basic audio controls (Start, Stop)
 - Generate Podcast button control to trigger the podcast creation process
@@ -25,6 +25,8 @@ This is a prototype development project aimed at demonstrating the feasibility a
 - Backend: ExpressJS
 - AI Integration: Google Gemini API
 - Audio Processing: Web Speech API
+- Audio Compression: Ffmpeg (optional)
+- File Uploads: Multer (optional)
 - Additional APIs and/or packages as needed
 
 ## Project Deliverables
