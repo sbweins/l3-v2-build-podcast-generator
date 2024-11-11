@@ -179,6 +179,10 @@ const compressionOptions = {
 - User-friendly error messages
 - File cleanup on error
 
+## Optional Additions
+
+If you want to see the optional additions that programmers could implement, please refer to the [optional-additions.md](optional-additions.md) file.
+
 ## Resources
 - [React Web Speech to Text Player Demo](https://github.com/jdrichards-pursuit/text-to-speech-demo-react)
 - [Google Gemini API - Audio ](https://ai.google.dev/gemini-api/docs/audio?lang=node)
