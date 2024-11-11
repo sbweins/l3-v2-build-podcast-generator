@@ -26,3 +26,6 @@ The interface maintains three primary states:
 1. Input Selection (File/Transcript toggle)
 2. Processing (Loading spinner)
 3. Playback (Player controls + Generated script)
+
+[Back to Spec](spec.md)
+[Back to Home](README.md)
