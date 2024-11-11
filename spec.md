@@ -9,6 +9,10 @@ Version 1.0
 - [Basic Example](https://drive.google.com/file/d/1PDMKCN6fN9kXRiJNHU7NPRcgtx8suFOr/view?usp=sharing)
 - [Advanced Example](https://drive.google.com/file/d/1hTsY5rQC324xqHq92Mky4g-_EdYPSHWL/view?usp=sharing)
 
+## User Flow
+
+If you want to see the user flow for this project to envision your building process or understand the user experience, please refer to the [user-flow.md](user-flow.md) file.
+
 ### Frontend (React)
 
 - Single Page Application using React (18.0+)
