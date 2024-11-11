@@ -1,9 +1,9 @@
 # LearnNation PodCastAI Creator Project Brief
 
-<img src="assets/learn-nation-logo.webp" alt="PodAI Creator Logo" width="200">
+<img src="assets/learn-nation-logo.webp" alt="PodAI Creator Logo" width="350">
 
 ## Context
-Hey developers! We're looking for innovative solutions to streamline podcast creation using AI technology. This project will create a prototype similar to Google's Notebook LM podcast feature, demonstrating your ability to work with modern web technologies and AI integration.
+Hey developers! LearnNation is looking for innovative solutions to streamline podcast creation using AI technology. This project will create a prototype similar to [Google's Notebook LM podcast feature](https://notebooklm.google.com/), demonstrating your ability to work with modern web technologies and AI integration.
 
 ## Project Overview
 Create a web-based application that converts text transcripts or audio uploads into enhanced, playable podcasts using ReactJS, ExpressJS, Google's Gemini API, and Web Speech API. This prototype will showcase your ability to work with cutting-edge AI and audio processing technologies.
@@ -14,41 +14,37 @@ This is a prototype development project aimed at demonstrating the feasibility a
 ## Core Features Required
 - Audio file upload functionality
 - Transcript paste/input capability
-- Text-to-audio conversion
+- Text-to-audio conversion using Web Speech API
 - Text transformation using Gemini API
-- Podcast player interface
-- Basic audio controls (Start, Stop)
-- Generate Podcast button control
+- Podcast player interface with basic audio controls (Start, Stop)
+- Generate Podcast button control to trigger the podcast creation process
 
 ## Technical Stack
 - Frontend: ReactJS
 - Backend: ExpressJS
 - AI Integration: Google Gemini API
 - Audio Processing: Web Speech API
-- Additional APIs as needed for audio handling
+- Additional APIs and/or packages as needed
 
 ## Project Deliverables
-1. Functional web application prototype
-2. Clean, documented source code
-3. Basic API documentation
+1. Functional full-stack web application prototype
+2. Clean source code
 
-## Support Resources
-- API documentation for all required services
-- Access to development credentials
-- Technical mentorship during implementation
-- Regular feedback sessions
 
 ## Evaluation Criteria
 - Code quality and organization
 - API integration effectiveness
 - User interface design
-- Performance optimization
-- Documentation quality
+- Error handling and user feedback
 - Innovation in implementation
 
 ## Next Steps
 1. Review the technical specification document
-2. Request API credentials and access
-3. Begin development setup
+2. Research the technologies and tools needed
+3. Create a project plan
+4. Begin development setup
+5. Implement the core features
+6. Test and iterate on the prototype
 
-Would you like me to create the technical specification next? If so, please provide any additional details or specific requirements you'd like to include in the technical specification.
+
+[Technical Specification Document](./spec.md)
