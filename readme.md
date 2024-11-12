@@ -49,6 +49,7 @@ This is a prototype development project aimed at feasibility and potential of Le
 5. Implement the core features
 6. Test and iterate on the prototype
 
+### Documentation
 
 [Technical Specification Document](./spec.md) - understand the technical requirements and constraints
 
