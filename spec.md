@@ -6,8 +6,8 @@ Version 1.0
 
 ### Video Examples of Podcast Creation by Team Members
 
-- [Basic Example](https://drive.google.com/file/d/1PDMKCN6fN9kXRiJNHU7NPRcgtx8suFOr/view?usp=sharing) - Tier 1
-- [Advanced Example](https://drive.google.com/file/d/1hTsY5rQC324xqHq92Mky4g-_EdYPSHWL/view?usp=sharing) - Tier 2 (when you click `Play Podcast` the podcast voices must generate with ElevenLabs API, so give it time to load )
+- [Basic Example](https://drive.google.com/file/d/1PDMKCN6fN9kXRiJNHU7NPRcgtx8suFOr/view?usp=sharing) - Tier 1 - Web Speech API - computer generated voices
+- [Advanced Example](https://drive.google.com/file/d/1hTsY5rQC324xqHq92Mky4g-_EdYPSHWL/view?usp=sharing) - Tier 2 - ElevenLabs API - human generated voices (when you click `Play Podcast` the podcast voices must generate with ElevenLabs API, so give it time to load )
 
 ## User Flow
 
