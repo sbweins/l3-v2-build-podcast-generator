@@ -1,20 +1,25 @@
+# User Flow
+
 Here's the user flow broken down into two main paths:
 
-Audio Upload Path:
+## Audio Upload Path
+
 Upload Audio from user's device -> Click Generate -> Loading Spinner appears (optional) -> Backend endpoint processes audio -> Backend lifts text from audio -> Backend sends text from audio and NLP prompt to Gemini Api -> Script generated -> Script saved to file -> Script sent to frontend -> Podcast interface appears & Script displayed below player -> User clicks Play -> AI voice or voices begin speaking -> User can stop player and adjust speed -> User can stop at any time
 
-Click to view flowchart:
+**Click to view flowchart:**
 
 <img src="./assets/audio-flowchart.jpg" width="500" alt="Audio Upload Path" />
 
-Transcript Path:
+## Transcript Path
+
 Copy transcript from source -> Paste/Type Transcript -> Click Generate -> Loading Spinner appears (optional) -> Backend endpoint processes text -> Backend lifts text from transcript -> Backend sends text from transcript and NLP prompt to Gemini Api -> Script generated -> Script saved to file -> Script sent to frontend -> Podcast interface appears & Script displayed below player -> User clicks Play -> AI voice(s) begin speaking -> User can stop player and adjust speed -> User can stop at any time -> Script displayed below player
 
-Click to view flowchart:
+**Click to view flowchart:**
 
 <img src="./assets/transcript-flowchart.jpg" width="500" alt="Transcript Path" />
 
-Error Flows:
+## Error Flows
+
 1. Wrong File Type:
 Select Non-Audio File -> Alert "Please select an audio file" -> Return to file selection
 
