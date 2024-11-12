@@ -50,6 +50,6 @@ This is a prototype development project aimed at feasibility and potential of Le
 6. Test and iterate on the prototype
 
 
-[Technical Specification Document](./spec.md)
+[Technical Specification Document](./spec.md) - understand the technical requirements and constraints
 
-[User Flow](user-flow.md)
+[User Flow Chart](user-flow.md) - understand the user flow and how the application will work
