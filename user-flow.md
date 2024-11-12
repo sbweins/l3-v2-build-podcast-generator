@@ -41,4 +41,5 @@ The interface maintains three primary states:
 3. Playback (Player controls + Generated script)
 
 [Back to Spec](spec.md)
+
 [Back to Home](README.md)
