@@ -11,6 +11,7 @@ Transcript Path:
 Copy transcript from source -> Paste/Type Transcript -> Click Generate -> Loading Spinner appears (optional) -> Backend endpoint processes text -> Backend lifts text from transcript -> Backend sends text from transcript and NLP prompt to Gemini Api -> Script generated -> Script saved to file -> Script sent to frontend -> Podcast interface appears & Script displayed below player -> User clicks Play -> AI voice(s) begin speaking -> User can stop player and adjust speed -> User can stop at any time -> Script displayed below player
 
 Click to view flowchart:
+
 <img src="./assets/transcript-flowchart.jpg" width="500" alt="Transcript Path" />
 
 Error Flows:
