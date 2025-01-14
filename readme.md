@@ -9,7 +9,7 @@ This project will create a prototype similar to [Google's Notebook LM podcast fe
 Create a web-based application that converts text transcripts or audio uploads into enhanced, playable podcasts from one or two people using ReactJS, ExpressJS, Google's Gemini API, and Web Speech API. This prototype will showcase your ability to work with cutting-edge AI and audio processing technologies.
 
 ## Project Scope
-This is a prototype development project aimed at feasibility and potential of AI-enhanced podcast creation technology used in a real-world application.
+This is a prototype development project aimed at feasibility and potential of AI-enhanced podcast creation technology used in a real-world application. It is broken into 3 tiers of complexity which are outlined in the [tier.md](tier.md) file.
 
 ## Core Features Required
 - Audio file upload functionality
@@ -53,4 +53,4 @@ This is a prototype development project aimed at feasibility and potential of AI
 
 [Technical Specification Document](./spec.md) - understand the technical requirements and constraints
 
-[User Flow Chart](user-flow.md) - understand the user flow and how the application will work
+[User Flow Chart](user-flow.md) - understand the user flow and how the application can work
