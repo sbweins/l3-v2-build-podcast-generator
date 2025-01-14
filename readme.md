@@ -1,37 +1,56 @@
-# Podcast Generator
+# Podcast Generator Project Brief
 
-<img src="./assets/podcast.png" alt="Podcast Generator Logo" width="500">
+<img src="./assets/podcast.png" alt="PodAI Creator Logo" width="750">
 
+## Context
+This project will create a prototype similar to [Google's Notebook LM podcast feature](https://notebooklm.google.com/), demonstrating your ability to work with modern web technologies and AI integration.
 
 ## Project Overview
-In this project, you will create a web-based application that converts text transcripts or audio uploads into enhanced, playable podcasts using ReactJS, ExpressJS, Google's Gemini API, and Web Speech API. Your application will demonstrate the integration of modern web technologies and AI to streamline podcast creation.
+Create a web-based application that converts text transcripts or audio uploads into enhanced, playable podcasts from one or two people using ReactJS, ExpressJS, Google's Gemini API, and Web Speech API. This prototype will showcase your ability to work with cutting-edge AI and audio processing technologies.
 
-## Real-World Relevance
-This project mirrors real-world tasks developers often encounter, such as:
+## Project Scope
+This is a prototype development project aimed at feasibility and potential of AI-enhanced podcast creation technology used in a real-world application.
 
-- **AI Integration**: Working with AI technologies like Google's Gemini API to transform text and audio data.
-- **Web Development**: Building a full-stack application using ReactJS for the frontend and ExpressJS for the backend.
-- **Audio Processing**: Utilizing the Web Speech API for text-to-audio conversion, a crucial skill in media and entertainment industries.
+## Core Features Required
+- Audio file upload functionality
+- Transcript paste/input capability
+- Text-to-Audio conversion using Web Speech API or ElevenLabs
+- Text transformation using Gemini API or whatever API you want to use for text transformation
+- Podcast player interface with basic audio controls (Start, Stop)
+- Generate Podcast button control to trigger the podcast creation process
+- Example output of generated podcast script in the UI
 
-## Objectives
-- **Use ReactJS**: Develop the frontend using ReactJS to create a dynamic and responsive user interface.
-- **Use ExpressJS**: Implement the backend with ExpressJS to handle API requests and manage data flow.
-- **AI and Audio Processing**: Integrate Google's Gemini API and Web Speech API for text transformation and audio generation.
-- **User Interaction**: Design an intuitive podcast player interface with basic controls like Start and Stop.
-- **Data Handling**: Implement functionality for audio file uploads and transcript input.
+## Technical Stack
+- Frontend: ReactJS
+- Backend: ExpressJS
+- AI Integration: Google Gemini API
+- Audio Processing: Web Speech API
+- Audio Compression: Ffmpeg (optional)
+- File Uploads: Multer (optional)
+- Additional APIs and/or packages as needed
 
-## Requirements
-- **API Usage**: Must use Google's Gemini API and Web Speech API for AI and audio processing.
-- **Interactivity**: The app should allow users to upload audio files or input transcripts and generate podcasts.
-- **Presentation**: The application should display the generated podcast script and provide playback controls.
+## Project Deliverables
+1. Functional full-stack web application prototype
+2. Clean source code
 
-## Getting Started
-1. **Set Up the Environment**: Clone the repository and set up your development environment with Node.js and npm.
-2. **Explore APIs**: Familiarize yourself with Google's Gemini API and Web Speech API.
-3. **Plan Your Application**: Outline the user flow and design the UI components.
-4. **Development**: Implement the core features, including API integration and audio processing.
-5. **Testing**: Ensure the application functions correctly and handles errors gracefully.
 
-## Submission
-- **Code Review**: Submit your code for review and ensure it meets the project requirements.
-- **Presentation**: Demonstrate your application, highlighting key features and discussing any challenges faced during development.
+## Evaluation Criteria
+- Code quality and organization
+- API integration effectiveness
+- User interface design
+- Error handling and user feedback
+- Innovation in implementation
+
+## Next Steps
+1. Review the technical specification document
+2. Research the technologies and tools needed
+3. Create a project plan
+4. Begin development setup
+5. Implement the core features
+6. Test and iterate on the prototype
+
+### Documentation
+
+[Technical Specification Document](./spec.md) - understand the technical requirements and constraints
+
+[User Flow Chart](user-flow.md) - understand the user flow and how the application will work

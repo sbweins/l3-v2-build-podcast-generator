@@ -16,7 +16,7 @@ If you want to see the user flow for this project to envision your building proc
 ### Frontend (React)
 
 - Single Page Application using React (18.0+)
-- Required hooks: useState, useRef, useEffect
+- Potential hooks: useState, useRef, useEffect
 - Clean component architecture
 - Client-side file validation for audio uploads
 - Audio playback controls:
