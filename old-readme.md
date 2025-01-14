@@ -1,6 +1,6 @@
 # LearnNation PodCastAI Creator Project Brief
 
-<img src="assets/learn-nation-logo.webp" alt="PodAI Creator Logo" width="350">
+<img src="./assets/podcast.png" alt="PodAI Creator Logo" width="350">
 
 ## Context
 Hey developers! LearnNation is looking for innovative solutions to streamline podcast creation using AI technology. This project will create a prototype similar to [Google's Notebook LM podcast feature](https://notebooklm.google.com/), demonstrating your ability to work with modern web technologies and AI integration.
