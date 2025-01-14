@@ -1,6 +1,6 @@
 # Podcast Generator
 
-<img src="assets/podcast.png" alt="PodAI Creator Logo" width="500">
+<img src="./assets/podcast.png" alt="PodAI Creator Logo" width="500">
 
 
 ## Project Overview
