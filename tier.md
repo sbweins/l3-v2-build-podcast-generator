@@ -9,6 +9,7 @@ Create a basic podcast generator that allows users to upload a transcript and ge
 - User Can upload an audio file and generate a podcast
 - User can play and stop the podcast
 
+See the [spec.md](spec.md) file for more details.
 
 ## Tier 2
 <img src="./assets/podcast.png" alt="Podcast Generator Logo" width="350">
@@ -18,8 +19,10 @@ Create a basic podcast generator that allows users to upload a transcript and ge
 - Use buffer to store the audio file
 - create more than one person podcast
 
+See the [spec.md](spec.md) file for more details.
+
 ## Tier 3
 
 - add background music and/or sound effects
 - add a more robust podcast player interface with speed control, progress tracking, and a play button
-- add a more robust podcast player interface with speed control, progress tracking, and a play button
+- add a more robust podcast player interface with speed control, progress tracking, and a play button. To view other optional enhancements, please refer to the [optional-additions.md](optional-additions.md) file.
