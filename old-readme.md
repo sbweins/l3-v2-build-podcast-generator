@@ -1,6 +1,6 @@
 # Podcast Generator Project Brief
 
-<img src="./assets/podcast.png" alt="PodAI Creator Logo" width="350">
+<img src="./assets/podcast.png" alt="PodAI Creator Logo" width="750">
 
 ## Context
 This project will create a prototype similar to [Google's Notebook LM podcast feature](https://notebooklm.google.com/), demonstrating your ability to work with modern web technologies and AI integration.
@@ -9,7 +9,7 @@ This project will create a prototype similar to [Google's Notebook LM podcast fe
 Create a web-based application that converts text transcripts or audio uploads into enhanced, playable podcasts from one or two people using ReactJS, ExpressJS, Google's Gemini API, and Web Speech API. This prototype will showcase your ability to work with cutting-edge AI and audio processing technologies.
 
 ## Project Scope
-This is a prototype development project aimed at feasibility and potential of LearnNation's Proprietary AI-enhanced podcast creation technology. The successful implementation could lead to opportunities to join the full Proprietary AI development team.
+This is a prototype development project aimed at feasibility and potential of AI-enhanced podcast creation technology used in a real-world application.
 
 ## Core Features Required
 - Audio file upload functionality
