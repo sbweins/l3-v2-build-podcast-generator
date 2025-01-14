@@ -1,3 +1,8 @@
+# Podcast Generator
+
+<img src="assets/podcast.png" alt="PodAI Creator Logo" width="350">
+
+
 ## Project Overview
 In this project, you will create a web-based application that converts text transcripts or audio uploads into enhanced, playable podcasts using ReactJS, ExpressJS, Google's Gemini API, and Web Speech API. Your application will demonstrate the integration of modern web technologies and AI to streamline podcast creation.
 
