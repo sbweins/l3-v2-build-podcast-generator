@@ -26,6 +26,11 @@ This is a prototype development project aimed at feasibility and potential of AI
 - Generate Podcast button control to trigger the podcast creation process
 - Example output of generated podcast script in the UI
 
+## Don't Panic!
+This looks like a lot! Don't worry, let's break it down into manageable chunks. Take a look at the [Session Breakdown](session.md) file for a breakdown of the project and how you could potentially plan to use your time to complete the project. Also take a look at [Example Prompts](example-prompts.md) to understand how to use prompts to help you learn concepts and implement your project.
+
+## Why am I Doing This?
+Take a look at the [Learnings and Takeaways](learnings.md) file to understand what you will gain by working on this project. Your goal is to learn, learn, learn more than to complete the project. You will be asked regularly as a professional to learn new concepts and technologies. This is your opportunity to practice.
 
 ## Technical Stack
 - Frontend: ReactJS
@@ -47,12 +52,6 @@ This is a prototype development project aimed at feasibility and potential of AI
 - User interface design
 - Error handling and user feedback
 - Innovation in implementation
-
-## Don't Panic!
-This looks like a lot! Don't worry, let's break it down into manageable chunks. Take a look at the [Session Breakdown](session.md) file for a breakdown of the project and how you could potentially plan to use your time to complete the project. Also take a look at [Example Prompts](example-prompts.md) to understand how to use prompts to help you learn concepts and implement your project.
-
-## Why am I Doing This?
-Take a look at the [Learnings and Takeaways](learnings.md) file to understand what you will gain by working on this project. Your goal is to learn, learn, learn more than to complete the project. You will be asked regularly as a professional to learn new concepts and technologies. This is your opportunity to practice.
 
 ## Next Steps
 1. Review the [technical specification document](spec.md)
