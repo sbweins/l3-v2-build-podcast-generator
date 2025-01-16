@@ -17,6 +17,12 @@ You will use generative AI to help you learn concepts and implement a web-based 
 ## Project Scope
 This is a prototype development project aimed at feasibility and potential of AI-enhanced podcast creation technology used in a real-world application. It is broken into 3 tiers of complexity which are outlined in the [tier.md](tier.md) file. Tier 1 is the minimum viable product and the other tiers are optional and will be used to showcase your ability to work with more complex technologies.
 
+## Don't Panic!
+This looks like a lot! Don't worry, let's break it down into manageable chunks. Take a look at the [Session Breakdown](session.md) file for a breakdown of the project and how you could potentially plan to use your time to complete the project. Also take a look at [Example Prompts](example-prompts.md) to understand how to use prompts to help you learn concepts and implement your project.
+
+## Why am I Doing This?
+Take a look at the [Learnings and Takeaways](learnings.md) file to understand what you will gain by working on this project. Your goal is to learn, learn, learn more than to complete the project. You will be asked regularly as a professional to learn new concepts and technologies. This is your opportunity to practice.
+
 ## Core Features Required
 - Audio file upload functionality
 - Transcript paste/input capability
@@ -25,12 +31,6 @@ This is a prototype development project aimed at feasibility and potential of AI
 - Podcast player interface with basic audio controls (Start, Stop)
 - Generate Podcast button control to trigger the podcast creation process
 - Example output of generated podcast script in the UI
-
-## Don't Panic!
-This looks like a lot! Don't worry, let's break it down into manageable chunks. Take a look at the [Session Breakdown](session.md) file for a breakdown of the project and how you could potentially plan to use your time to complete the project. Also take a look at [Example Prompts](example-prompts.md) to understand how to use prompts to help you learn concepts and implement your project.
-
-## Why am I Doing This?
-Take a look at the [Learnings and Takeaways](learnings.md) file to understand what you will gain by working on this project. Your goal is to learn, learn, learn more than to complete the project. You will be asked regularly as a professional to learn new concepts and technologies. This is your opportunity to practice.
 
 ## Technical Stack
 - Frontend: ReactJS
