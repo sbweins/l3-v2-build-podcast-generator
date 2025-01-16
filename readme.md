@@ -63,13 +63,12 @@ Take a look at the [Learnings and Takeaways](learnings.md) file to understand wh
 
 [User Flow Chart](user-flow.md) - understand the user flow and how the application can work
 
-[Example Prompts](example-prompts.md) - understand how to use prompts to help you learn concepts and implement your project
+[Learnings and Takeaways](learnings.md) - understand what you will gain by working on this project.
 
-[Optional Additions](optional-additions.md) - understand how to add additional features to your project to showcase your ability to work with more complex technologies
+[Session Breakdown](session.md) - understand how to plan your time to complete the project. Use it as a guide to steer you in the right direction.
 
-[Learnings](learnings.md) - understand what you will gain by working on this project
+[Prompting Guide](example-prompts.md) - understand how to use prompts to help you learn concepts and implement your project
 
-[Session Breakdown](session.md) - understand how to plan your time to complete the project
+[Tier Options](tier.md) - understand the tiers of complexity you can choose to implement. 
 
-[Tier](tier.md) - understand the tiers of complexity and how to implement them
-
+[Optional Additions](optional-additions.md) - understand how to add additional features to your project to showcase your ability to work with more complex technologies.
