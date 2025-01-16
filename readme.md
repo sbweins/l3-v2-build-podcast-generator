@@ -42,6 +42,7 @@ This is a prototype development project aimed at feasibility and potential of AI
 - Error handling and user feedback
 - Innovation in implementation
 
+## Don't Panic!
 This looks like a lot! Don't worry, let's break it down into manageable chunks. Take a look at the [Session Breakdown](session.md) file for a breakdown of the project and how you could potentially plan to use your time to complete the project.
 
 ## Why am I Doing This?
