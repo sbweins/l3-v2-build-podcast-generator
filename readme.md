@@ -59,16 +59,16 @@ Take a look at the [Learnings and Takeaways](learnings.md) file to understand wh
 
 ### Documentation
 
-[Technical Specification Document](./spec.md) - understand the technical requirements and constraints
+- [Technical Specification Document](./spec.md) - understand the technical requirements and constraints
 
-[Learnings and Takeaways](learnings.md) - understand what you will gain by working on this project.
+- [Learnings and Takeaways](learnings.md) - understand what you will gain by working on this project.
 
-[Session Breakdown](session.md) - understand how to plan your time to complete the project. Use it as a guide to steer you in the right direction.
+- [Session Breakdown](session.md) - understand how to plan your time to complete the project. Use it as a guide to steer you in the right direction.
 
-[Prompting Guide](example-prompts.md) - understand how to use prompts to help you learn concepts and implement your project
+- [Prompting Guide](example-prompts.md) - understand how to use prompts to help you learn concepts and implement your project
 
-[Tier Options](tier.md) - understand the tiers of complexity you can choose to implement. 
+- [Tier Options](tier.md) - understand the tiers of complexity you can choose to implement. 
 
-[Optional Additions](optional-additions.md) - understand how to add additional features to your project to showcase your ability to work with more complex technologies.
+- [Optional Additions](optional-additions.md) - understand how to add additional features to your project to showcase your ability to work with more complex technologies.
 
-[User Flow Chart](user-flow.md) - understand the user flow and how the application can work.
+- [User Flow Chart](user-flow.md) - understand the user flow and how the application can work.
