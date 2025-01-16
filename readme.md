@@ -49,7 +49,7 @@ This looks like a lot! Don't worry, let's break it down into manageable chunks. 
 Take a look at the [Learnings and Takeaways](learnings.md) file to understand what you will gain by working on this project. Your goal is to learn, learn, learn more than to complete the project. You will be asked regularly as a professional to learn new concepts and technologies. This is your opportunity to practice.
 
 ## Next Steps
-1. Review the technical specification document
+1. Review the [technical specification document](spec.md)
 2. Research the technologies and tools needed
 3. Create a project plan (check out the [Session Breakdown](session.md) for suggestions)
 4. Begin development setup
