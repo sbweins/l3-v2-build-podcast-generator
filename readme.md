@@ -61,8 +61,6 @@ Take a look at the [Learnings and Takeaways](learnings.md) file to understand wh
 
 [Technical Specification Document](./spec.md) - understand the technical requirements and constraints
 
-[User Flow Chart](user-flow.md) - understand the user flow and how the application can work
-
 [Learnings and Takeaways](learnings.md) - understand what you will gain by working on this project.
 
 [Session Breakdown](session.md) - understand how to plan your time to complete the project. Use it as a guide to steer you in the right direction.
@@ -72,3 +70,5 @@ Take a look at the [Learnings and Takeaways](learnings.md) file to understand wh
 [Tier Options](tier.md) - understand the tiers of complexity you can choose to implement. 
 
 [Optional Additions](optional-additions.md) - understand how to add additional features to your project to showcase your ability to work with more complex technologies.
+
+[User Flow Chart](user-flow.md) - understand the user flow and how the application can work.
