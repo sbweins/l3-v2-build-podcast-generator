@@ -8,6 +8,12 @@ This project will create a prototype similar to [Google's Notebook LM podcast fe
 ## Project Overview
 You will use generative AI to help you learn concepts and implement a web-based application that converts text transcripts or audio uploads into enhanced, playable podcasts from one or two people using ReactJS, ExpressJS, Google's Gemini API, and Web Speech API. (if you find another AI API more suitable, you can use it instead of Gemini). This prototype will showcase your ability to work with cutting-edge AI and audio processing technologies.
 
+### Video Examples of Podcast Generators
+
+- [Basic Example](https://drive.google.com/file/d/1PDMKCN6fN9kXRiJNHU7NPRcgtx8suFOr/view?usp=sharing) - Tier 1 - Web Speech API - computer generated voices
+
+- [Advanced Example](https://drive.google.com/file/d/1hTsY5rQC324xqHq92Mky4g-_EdYPSHWL/view?usp=sharing) - Tier 2 - ElevenLabs API - human generated voices (when you click `Play Podcast` the podcast voices must generate with ElevenLabs API, so give it time to load )
+
 ## Project Scope
 This is a prototype development project aimed at feasibility and potential of AI-enhanced podcast creation technology used in a real-world application. It is broken into 3 tiers of complexity which are outlined in the [tier.md](tier.md) file. Tier 1 is the minimum viable product and the other tiers are optional and will be used to showcase your ability to work with more complex technologies.
 
